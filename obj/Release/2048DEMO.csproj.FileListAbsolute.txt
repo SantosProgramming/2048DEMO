@@ -1,0 +1,4 @@
+D:\Disciplinas\PSI\2 Ano\Modulo 9\18_RUBEN_SANTOS_JOGO\2048DEMO\2048DEMO\obj\Release\_2048DEMO.Form1.resources
+D:\Disciplinas\PSI\2 Ano\Modulo 9\18_RUBEN_SANTOS_JOGO\2048DEMO\2048DEMO\obj\Release\_2048DEMO.Properties.Resources.resources
+D:\Disciplinas\PSI\2 Ano\Modulo 9\18_RUBEN_SANTOS_JOGO\2048DEMO\2048DEMO\obj\Release\2048DEMO.csproj.GenerateResource.cache
+D:\Disciplinas\PSI\2 Ano\Modulo 9\18_RUBEN_SANTOS_JOGO\2048DEMO\2048DEMO\obj\Release\2048DEMO.csproj.CoreCompileInputs.cache
